@@ -1,5 +1,6 @@
 Revision 1, for 1.4.5
 
+[Get a copy](https://roblox.com/games/4560521063)
 
 # Flood Escape 2 Camera Sway
 This Github repository houses documentation for using FE2 Camera Sway.
